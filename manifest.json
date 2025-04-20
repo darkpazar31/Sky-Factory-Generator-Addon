@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "min_engine_version": [1, 20, 50],
+    "uuid": "07377914-24c0-26ae-8875-08bb9ac4038d",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Data",
+      "type": "data",
+      "uuid": "3ad20898-c7bf-517e-8980-d2ee91791507",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "9d9e15b8-d588-419f-b0e1-768cf7676cb6",
+      "entry": "scripts/source.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.7.0"
+    }
+  ],
+  "metadata": {
+    "authors": [ "MrDark" ],
+    "license": "LICENSE.md"
+  }
+}
