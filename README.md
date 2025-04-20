@@ -1,2 +1,7 @@
-# Sky-Factory-Generator-Addon
-A simple addon that creates a Sky Factory-style world. No new items or mechanics—just you, a tree, and the void. Perfect for classic sky survival in Bedrock Edition.
+# `Description`
+Take your Skyblock experience to the next level! This addon automatically generates a Sky Factory-themed world. Players start from scratch and expand their resources through automation, generators, and creative building. A fun and challenging survival experience awaits.
+
+# `Technical Information`
+- Works on versions below 1.21 ✅
+- No need to enable experimental features ✅
+- Compatible with All Other Addons ✅
