@@ -1,0 +1,33 @@
+pack.name=§bSky Factory World Generation §eKaynak Paketi
+pack.description=MrDark tarafından hazırlanmıştır
+
+sf.gui.title=Ağaç Kategorisini Seçin:
+sf.gui.button1=Vanilla Ağaçları
+sf.gui.button2=Cevher Ağaçları (Eklenti Ağaçları)
+sf.gui.title.vt=Vanilla Ağaçları
+sf.gui.dropdown.vt=Ağaç Varyantını Seçin:
+sf.gui.title.ot=Cevher Ağaçları (Eklenti Ağaçları)
+sf.gui.dropdown.ot=Ağaç Varyantını Seçin:
+sf.gui.title.error=§4Cevher Ağaçları Hatası
+sf.gui.body.erorr=§4[!] §rDikkat: Cevher Ağaçları eklentisi dünyanızda yüklü değil, bu nedenle ağaç seçeneklerini kullanamazsınız
+
+sf.name.tree_0=Meşe Ağacı (Varsayılan)
+sf.name.tree_1=Huş Ağacı
+sf.name.tree_2=Orman Ağacı
+sf.name.tree_3=Kiraz Ağacı
+sf.name.tree_4=Ladin Ağacı
+sf.name.tree_5=Akasya Ağacı
+sf.name.tree_6=Karanlık Meşe Ağacı
+sf.name.tree_7=Soluk Bahçe Ağacı
+sf.name.tree_8=Mangrov Ağacı
+
+sf.name.ore_tree_0=Kömür Cevheri Ağacı (Varsayılan)
+sf.name.ore_tree_1=Kırıktaş Cevheri Ağacı
+sf.name.ore_tree_2=Bakır Cevheri Ağacı
+sf.name.ore_tree_3=Elmas Cevheri Ağacı
+sf.name.ore_tree_4=Zümrüt Cevheri Ağacı
+sf.name.ore_tree_5=Altın Cevheri Ağacı
+sf.name.ore_tree_6=Demir Cevheri Ağacı
+sf.name.ore_tree_7=Lapis Cevheri Ağacı
+sf.name.ore_tree_8=Nether Kuvars Cevheri Ağacı
+sf.name.ore_tree_9=Kızıltaş Cevheri Ağacı

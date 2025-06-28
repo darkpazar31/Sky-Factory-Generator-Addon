@@ -1,0 +1,33 @@
+pack.name=§bSky Factory World Generation §eResource Pack
+pack.description=By MrDark
+
+sf.gui.title=Select Tree Category:
+sf.gui.button1=Vanilla Trees
+sf.gui.button2=Ore Trees (Addon Trees)
+sf.gui.title.vt=Vanilla Trees
+sf.gui.dropdown.vt=Select Tree Variant:
+sf.gui.title.ot=Ore Trees (Addon Trees)
+sf.gui.dropdown.ot=Select Tree Variant:
+sf.gui.title.error=§4Ore Trees Error
+sf.gui.body.erorr=§4[!] §rAttention Ore Trees Addon is not installed in your world so you cannot use tree options
+
+sf.name.tree_0=Oak Tree (Defualt)
+sf.name.tree_1=Birch Tree
+sf.name.tree_2=Jungle Tree
+sf.name.tree_3=Cherry Tree
+sf.name.tree_4=Spruce Tree
+sf.name.tree_5=Acacia Tree
+sf.name.tree_6=Dark Oak Tree
+sf.name.tree_7=Pale Garden Tree
+sf.name.tree_8=Mangrove Tree
+
+sf.name.ore_tree_0=Coal Ore Tree (Defualt)
+sf.name.ore_tree_1=Cobblestone Ore Tree
+sf.name.ore_tree_2=Copper Ore Tree
+sf.name.ore_tree_3=Diamond Ore Tree
+sf.name.ore_tree_4=Emerald Ore Tree
+sf.name.ore_tree_5=Gold Ore Tree
+sf.name.ore_tree_6=Iron Ore Tree
+sf.name.ore_tree_7=Lapis Ore Tree
+sf.name.ore_tree_8=Netber Quartz Ore Tree
+sf.name.ore_tree_9=Redstone Ore Tree

@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "min_engine_version": [1, 21, 80],
+    "uuid": "9a1f1256-06a7-407e-b17b-6fa80139aa57",
+    "version": [2, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Resources",
+      "type": "resources",
+      "uuid": "a26b7723-33fb-484a-b7e4-a92ae9e81713",
+      "version": [2, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "08396914-21c0-46ae-8835-08bb6ac4038d",
+      "version": [2, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": [ "MrDark" ],
+    "license": "LICENSE.md"
+  }
+}
